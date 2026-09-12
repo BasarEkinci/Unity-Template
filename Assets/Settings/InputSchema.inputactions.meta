@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7a1c00004b2d00009e3f00001c5a0109
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData:
+  assetBundleName:
+  assetBundleVariant:
+  script: {fileID: 11500000, guid: 8404be70184654265930450def6a9037, type: 3}
+  generateWrapperCode: 1
+  wrapperCodePath: Assets/Syntac/Systems/Core/Runtime/Scripts/InputSchema.cs
+  wrapperClassName: InputSchema
+  wrapperCodeNamespace: Syntac.Core
