@@ -30,10 +30,6 @@ Assets/
 | SettingsSystem | `Syntac.SettingsSystem` | Audio (Master, BGM, SFX, Voice, Ambience) and graphics (resolution, fullscreen, VSync, quality, target FPS) settings, saved as `settings.cfg` under `persistentDataPath`. |
 | ConfigManagement | `Syntac.ConfigManagement` | Editor window listing every config asset implementing `IVisibleConfig`. |
 
-## Editor tools
-
-- **Tools → Syntac → Configuration Manager**
-
 ## Third-party packages
 
 | Package | Version |
